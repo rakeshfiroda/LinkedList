@@ -1,5 +1,5 @@
 # LinkedList
-User can perform various task using LinkedList
+User can perform various tasks using LinkedList
 <-- LinkedList -->
 1.Add Node at First Position
 2.Add Node at Last Position
